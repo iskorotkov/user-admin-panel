@@ -1,0 +1,9 @@
+[submodule "user-admin-panel-backend"]
+	path = user-admin-panel-backend
+	url = https://github.com/iskorotkov/user-admin-panel-backend.git
+[submodule "user-admin-panel-frontend"]
+	path = user-admin-panel-frontend
+	url = https://github.com/iskorotkov/user-admin-panel-frontend.git
+[submodule "user-admin-panel-common"]
+	path = user-admin-panel-common
+	url = https://github.com/iskorotkov/user-admin-panel-common.git
