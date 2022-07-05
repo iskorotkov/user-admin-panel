@@ -1,4 +1,4 @@
-# Админка для управления пользователями
+# Админ-панель для управления пользователями
 
 [![OpenAPI](https://github.com/iskorotkov/user-admin-panel-common/actions/workflows/openapi.yml/badge.svg)](https://github.com/iskorotkov/user-admin-panel-common/actions/workflows/openapi.yml)
 
