@@ -16,7 +16,7 @@ cd user-admin-panel/user-admin-panel-common
 docker compose up --build
 ```
 
-Затем необходимо открыть вкладку в браузере с адресом `http://localhost:3000`.
+Затем необходимо открыть вкладку в браузере с адресом [http://localhost:3000](http://localhost:3000).
 
 ## Задание
 
