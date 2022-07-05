@@ -8,10 +8,10 @@
 
 ## Запуск
 
-Сперва необходимо клонировать репозиторий и запустить сервисы:
+Сперва необходимо клонировать репозиторий с субмодулями и запустить сервисы:
 
 ```shell
-git clone https://github.com/iskorotkov/user-admin-panel
+git clone --recurse-submodules -j8 https://github.com/iskorotkov/user-admin-panel
 cd user-admin-panel/user-admin-panel-common
 docker compose up --build
 ```
