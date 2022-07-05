@@ -1,5 +1,11 @@
 # Админка для управления пользователями
 
+[![OpenAPI](https://github.com/iskorotkov/user-admin-panel-common/actions/workflows/openapi.yml/badge.svg)](https://github.com/iskorotkov/user-admin-panel-common/actions/workflows/openapi.yml)
+
+[![Go](https://github.com/iskorotkov/user-admin-panel-backend/actions/workflows/go.yml/badge.svg)](https://github.com/iskorotkov/user-admin-panel-backend/actions/workflows/go.yml)
+
+[![Node.js CI](https://github.com/iskorotkov/user-admin-panel-frontend/actions/workflows/node.js.yml/badge.svg)](https://github.com/iskorotkov/user-admin-panel-frontend/actions/workflows/node.js.yml)
+
 ## Запуск
 
 Сперва необходимо клонировать репозиторий и запустить сервисы:
